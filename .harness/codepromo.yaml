@@ -8,7 +8,7 @@ pipeline:
     - stage:
         name: dev
         identifier: dev
-        description: ""
+        description: "HelloFromGitX"
         type: Deployment
         spec:
           deploymentType: Kubernetes
